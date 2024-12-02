@@ -64,8 +64,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Intern
+    company_name: AIR
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
@@ -111,12 +111,12 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
+    percent: 100
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Deutsch
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -152,4 +152,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm is an undergraduate student of software engineering at the Stanford AI Lab. My research interests include 3d reconstruction, robotics, mobile computing and programmable matter.
